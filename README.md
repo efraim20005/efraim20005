@@ -2,8 +2,6 @@
 
 # 👨‍💻 Efraim Waruwu  
 
-<img src="https://gitlab.com/uploads/-/system/user/avatar/25121060/avatar.png?width=800" width="120" style="border-radius:50%;" />
-
 ### Learning
 
 </div>
